@@ -4,8 +4,8 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Ekinoxx0)
 
-Hi, I'm **Jo**. I am a Java developer from Toulouse, France. I'm currently studying Computer Science in Paul Sabatier University.  
-I have some works with **Java**, **JS** and **C**, contact me if you have some questions!
+Hi, I'm **Jo**. I am a JS/Lua/Java developer from Toulouse, France. I graduated from Computer Science in Paul Sabatier University.
+I do some works with **Java**, **Lua**, **JS** and **C**, contact me if you have some questions!
 
 ## 📫 Contact Me on Social Media
 
@@ -13,13 +13,15 @@ I have some works with **Java**, **JS** and **C**, contact me if you have some q
 
 ## 💡 Projects with My Work
 
-- [**Oros.dev**](https://oros.dev): My default portal for posting things and hosting projects
+- [**Flashback.ovh**](https://flashback.ovh): My current work on a GTA 5 RP server
+- [**Fightlab.fr**](https://fightlab.fr): My gunfight GTA 5 server
+- [**Oros.dev**](https://oros.dev): Was my default portal for my old work, probably outdated
 - [**Wondalia.com**](https://wondalia.com): My old minecraft server
 
 ## 📚 General
 
-- 🔭 I’m currently working on some Android Apps in Java
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working on a RolePlay server
+- 🌱 I’m currently learning Vue.js
  
 ## 💻 Work Stats
 
