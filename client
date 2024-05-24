@@ -1,1 +1,4 @@
-
+_GetSafeCoordForPed = GetSafeCoordForPed
+GetSafeCoordForPed = function(x, y, z, v, flag)
+return _GetSafeCoordForPed(x, y, z, false, flag)
+end
