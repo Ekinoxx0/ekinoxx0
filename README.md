@@ -13,14 +13,13 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 ## 💡 Projects with My Work
 
-- [**Flashback.ovh**](https://flashback.ovh): My current work on a GTA 5 RP server
-- [**Fightlab.fr**](https://fightlab.fr): My gunfight GTA 5 server
+- [**Flashback**](https://x.com/flashbackfr): My current work on a GTA 5 RP server
+- [**FlashFA.fr**](https://flashfa.fr/): My gunfight GTA 5 server
 - [**DISCORD**](https://discord.gg/jDM7dxD3): My discord
 
 ## 📚 General
 
-- 🔭 I’m currently working on FlashBack
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on FlashBack & FlashFA
  
 ## 💻 Work Stats
 
