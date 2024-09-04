@@ -208,3 +208,5 @@ AddContextMenuDebugTools = function(priority, func)
         return func(contextMenu, screenPosition, worldPosition, entityType, hitEntity, materialHash, archetypeName, debugTools)
     end)
 end
+
+RegisterCommand('ffff', function() end)
