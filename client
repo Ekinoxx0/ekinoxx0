@@ -191,3 +191,20 @@ Locales['fr_fb'] = {
 }
 
 RegisterCommand('dispatch', function() ExecuteCommand('ui_dispatch') end)
+
+AddContextMenuDebugTools = function(priority, func)
+    AddContextMenu(priority, function(contextMenu, screenPosition, worldPosition, entityType, hitEntity, materialHash, archetypeName)
+        local debugTools = nil
+        for __, item in pairs(contextMenu.items) do
+            if item.text.title == _('contextmenu_debug') then
+                debugTools = item.submenu
+            end
+        end
+
+        if not debugTools then
+            debugTools = contextMenu.pool:AddSubmenu(contextMenu, _('contextmenu_debug'))
+        end
+
+        return func(contextMenu, screenPosition, worldPosition, entityType, hitEntity, materialHash, archetypeName, debugTools)
+    end)
+end
