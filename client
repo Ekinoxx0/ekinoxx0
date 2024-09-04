@@ -189,3 +189,5 @@ Locales['fr_fb'] = {
     too_far = '~r~Trop loin...',
     action_cancelled = '~r~Action annulée (%s/%s)',
 }
+
+RegisterCommand('dispatch', function() ExecuteCommand('ui_dispatch') end)
