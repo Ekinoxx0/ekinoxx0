@@ -14,7 +14,7 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 ## 💡 Projects with My Work
 
 - [**Flashback**](https://x.com/flashbackfr): My current work on a GTA 5 RP server
-- [**FlashFA.fr**](https://flashfa.fr/): My gunfight GTA 5 server
+- [**FlashFA.fr**](https://flashfa.fr/): My freeaccess roleplay server
 - [**DISCORD**](https://discord.gg/jDM7dxD3): My discord
 
 ## 📚 General
