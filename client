@@ -1,13 +1,8 @@
-CreateThread(function()
-while true do
-local seats = {
-            [0] = 'delta@drive_by@std_ps_1h',
-            [1] = 'delta@drive_by@std_rds_1h',
-            [2] = 'delta@drive_by@std_rps_1h',
-        }
-        for _, anim in pairs(seats) do
-            RequestAnimSet(anim)
-        end
-Wait(10000)
-end
+
+RegisterNetEvent('ava:emote:update', function(emoteId, xEmoteData)
+Wait(0)
+    if XEmotes[emoteId] then
+        XEmotes[emoteId].blend = (xEmoteData.blend or 2.0) + 0.0
+        XEmotesByRefs[XEmotes[emoteId].ref].blend =  (xEmoteData.blend or 2.0) + 0.0
+    end
 end)
