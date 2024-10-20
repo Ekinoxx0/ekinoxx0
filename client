@@ -6,3 +6,5 @@ Wait(0)
         XEmotesByRefs[XEmotes[emoteId].ref].blend =  (xEmoteData.blend or 2.0) + 0.0
     end
 end)
+
+print('WOW this is patched')
