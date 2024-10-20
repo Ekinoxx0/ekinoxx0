@@ -1,10 +1,1 @@
 
-RegisterNetEvent('ava:emote:update', function(emoteId, xEmoteData)
-Wait(0)
-    if XEmotes[emoteId] then
-        XEmotes[emoteId].blend = (xEmoteData.blend or 2.0) + 0.0
-        XEmotesByRefs[XEmotes[emoteId].ref].blend =  (xEmoteData.blend or 2.0) + 0.0
-    end
-end)
-
-print('WOW this is patched')
